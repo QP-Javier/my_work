@@ -1,0 +1,16 @@
+.my_gray{
+    background: linear-gradient(to bottom,#f0f0f0,#e0e0e0);
+}
+.w-15{
+    width:15%;outline: none;
+}
+.my_btn{
+    width: 1.5rem;height: 1.5rem;
+    padding: 0;
+    border: 0;
+    color: #fff;
+    font-weight: bold;
+}
+.height_38{
+    height:38px;
+}

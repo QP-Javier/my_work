@@ -1,0 +1,17 @@
+/* 专属于header.html使用的样式 */
+.breadcrumb{background-color:transparent;}
+.breadcrumb-item+.breadcrumb-item::before{
+    content:"|";
+}
+.breadcrumb-item a{
+    color: #808080;
+}
+.nav-item a{
+    color: #CCC;
+}
+.input-group{
+    width: 70%;
+}
+.row{
+    align-items: center;
+}

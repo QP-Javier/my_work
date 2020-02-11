@@ -61,7 +61,7 @@
 }
 @media (min-width:992px){
     .img_position_1{margin-top: -16rem;}
-    .img_position_2{margin-top: -16rem;margin-right: 25px;}
+    .img_position_2{margin-top: -16rem;}
     .img_position_3{margin-top: -10rem;}
 }
 @media (min-width:1200px){
